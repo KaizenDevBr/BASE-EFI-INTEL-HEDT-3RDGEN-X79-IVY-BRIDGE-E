@@ -136,7 +136,6 @@ MacPro6,1|Works for Ivy Bridge-E Processors
 	- Please Mapping USB in macOS Catalina before install Big Sur or Newer for best results.
 	- You can use USBMap.command Utility - [USBMap](https://github.com/corpnewt/USBMap).
 - **`AppleCpuPmCfgLock`** - Please `**ENABLE**` if you cannot disable`CFG-Lock` in BIOS.
-- **`AppleXcpmCfgLock`** - Please `**ENABLE**` if you cannot disable`CFG-Lock` in BIOS.
 
 - **DeviceProperties** Uncomment `PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)` if:
 	- This entry relates to Intel's I350 controller found on many Intel and Supermicro server boards, and some Intel Server PCIe adapters. 
